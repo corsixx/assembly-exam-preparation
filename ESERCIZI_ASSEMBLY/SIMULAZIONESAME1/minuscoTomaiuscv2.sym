@@ -1,0 +1,14 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	CONV_MAIUS              300C
+//	ciclo                   3011
+//	fine                    301F
+//	imm122                  3028
+//	imm32                   3026
+//	imm97                   3027
+//	prossimo                301D
+//	sr1                     3023
+//	sr2                     3024
+//	sr3                     3025
+//	stoqui                  3002
+//	stringa                 3003
