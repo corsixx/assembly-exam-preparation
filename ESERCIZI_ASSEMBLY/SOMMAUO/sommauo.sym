@@ -1,0 +1,19 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	concneg                 3028
+//	concpos                 3025
+//	disc                    3023
+//	n1neg                   3020
+//	n1pos                   301D
+//	num1                    3013
+//	num2                    3014
+//	num3                    3015
+//	num4                    3016
+//	num5                    3017
+//	num6                    3018
+//	num7                    3019
+//	overflow                302D
+//	sommaok                 302B
+//	sommaou                 301A
+//	stoqui                  3012
+//	underflow               3030

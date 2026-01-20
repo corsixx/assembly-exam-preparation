@@ -1,0 +1,10 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	ROVESCIA_ARRAY          300A
+//	array                   3004
+//	ciclo                   300D
+//	copy                    3009
+//	riempiCopy              3012
+//	sr2                     301B
+//	sr3                     301C
+//	stop                    3003
